@@ -16,7 +16,17 @@ Por fim, o projeto tem por objetivo também mostrar ao público em geral, como f
 Base de dados escolhida: [Transações Fraudulentas no E-commerce](https://www.kaggle.com/datasets/shriyashjagtap/fraudulent-e-commerce-transactions)  
 Fonte: [Kaggle](https://www.kaggle.com/)
 
-**Autoria do projeto**  
+**Ferramentas utilizadas no projeto:**  
+- Python versão 3.12 [Documentação](https://devdocs.io/python~3.12/)
+- Biblioteca Matplotlib versão 3.7 [Documentação](https://devdocs.io/matplotlib~3.7/)
+- Biblioteca Pandas versão 2.2.2 [Documentação](https://devdocs.io/pandas~2/)
+- Vscode [Documentação](https://code.visualstudio.com/docs)
+- Extensão Jupyter Notebook versão 4.9.1 [Documentação](https://docs.jupyter.org/en/latest/)
+- Extensão Git LFS(Large File Storage) versão 3.2.0 [Documentação](https://github.com/git-lfs/git-lfs/tree/main/docs?utm_source=gitlfs_site&utm_medium=docs_link&utm_campaign=gitlfs)  
+
+
+
+**Autoria do projeto:**  
 Projeto desenvolvido por **Lethicia Asevedo**, turma ON34 - {Reprograma}.    
 - [Linkedin](https://www.linkedin.com/in/lethiciaasevedo/)  
 - [Github](https://github.com/lethiciaasevedo1999)
