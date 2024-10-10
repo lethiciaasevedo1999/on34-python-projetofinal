@@ -1,4 +1,6 @@
-# **Introdução**
+# Análise de transações fraudulentas no E-commerce 🚨@
+
+**Introdução**
 
 Esse projeto foi elaborado para o trabalho de conclusão final do curso de **Análise de Dados com Python oferecido pela Instituição de ensino {Reprograma}**.  
 O mesmo possui uma base de dados sintética, construída utilizando a biblioteca **Faker** do python,juntamente com dados transacionais de uma plataforma de e-commerce e atributos adicionais, além de lógica personalizada para simulação de padrões de transações realistas e cenários fraudulentos, projetados especificamente para teste de algoritmos e treinamento de machine learning para detecção de fraude. 
