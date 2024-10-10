@@ -1,33 +1,29 @@
 # **Introdução**
 
-Esse projeto foi elaborado para o trabalho de conclusão final do curso de **Análise de Dados com Python oferecido pela Instituição de ensino {Reprograma}**.
+Esse projeto foi elaborado para o trabalho de conclusão final do curso de **Análise de Dados com Python oferecido pela Instituição de ensino {Reprograma}**.  
 O mesmo possui uma base de dados sintética, construída utilizando a biblioteca **Faker** do python,juntamente com dados transacionais de uma plataforma de e-commerce e atributos adicionais, além de lógica personalizada para simulação de padrões de transações realistas e cenários fraudulentos, projetados especificamente para teste de algoritmos e treinamento de machine learning para detecção de fraude. 
 
-**Objetivo do projeto:**
-- Definir e reunir uma fonte de dados.
-- Tratar os dados aplicando as etapas necessárias para limpeza e visualização. 
-- Analisar os dados gerando percepções.
-- Trazer uma conclusão com base no objetivo inicial. 
+**Motivação**  
+Trabalhei como analista de fraude na maior empresa de análise de fraude do Brasil, a **ClerSale**, por 7 anos. Lá aprendi tudo sobre análise e após muito tempo analisando pedido a pedido, meus últimos 3 anos de empresa foram integrando a equipe de análises ostensivas, onde pude atuar na linha de frente com análise de pedidos em lote, realização de estudos para sinalização das operações de nível I e II, detectando comportamentos suspeitos de fraude, além do envio de alertas de bloqueios para os clientes da empresa assim que detectada a necessidade.   
+Tendo esses anos de experiência no ramo, oque me motivou foi poder mostrar minha área de conhecimento, explicando como consigo gerar insights com análises em lote e como chego a conclusões dos pedidos. 
 
+**Objetivo do projeto:**  
+O projeto tem por objetivo principal realizar uma análise exploratória dos pedidos, para possível detecção de anomalias e identificar padrões de fraudes.  
+Ao decorrer da análise, também foi se desenvolvendo insights de comparações entre pedidos fraudulentos e pedidos não fraudulentos, possibilitando a visualização e clarificação de diferenças.  
+Por fim, o projeto tem por objetivo também mostrar ao público em geral, como funciona uma análise de fraude, pois ainda é uma área desconhecida por muitos, como os dados da população são armazenados e como eles são relacionados entre si, para que uma análise seja feita com relevância. 
+
+**Fontes e atribuições do projeto:**  
 Base de dados escolhida: [Transações Fraudulentas no E-commerce](https://www.kaggle.com/datasets/shriyashjagtap/fraudulent-e-commerce-transactions)  
 Fonte: [Kaggle](https://www.kaggle.com/)
 
-**Descrição de colunas:**
-- `Transaction ID:` Número identificador para cada transação.
-- `Costomer ID:` Número identificador para cada cliente.
-- `Transaction Amount:` Valor da compra. 
-- `Transaction Date:` Data e hora da compra. 
-- `Payment Method:` Método de pagamento (cartão de crédito, paypal, transferência bancária)
-- `Product Category:` Categoria do produto. 
-- `Quantity:` Quantia de produtos adquiridos. 
-- `Costomer Age:` Idade do cliente.
-- `Customer Location:` Endereço do cliente.
-- `Device Used:` Dispositivo utilizado para realizar a compra (Tablet, celular, computador)
-- `IP Address:` Endereço de IP do dispositivo usado para realizar a compra. 
-- `Shipping Address:` Endereço de entrega da compra. 
-- `Billing Address:` Endereço de cobrança ou envio da fatura do cartão. 
-- `Is Fraudulent:` Indicador binário de se a transação é fraudulenta (1 para fraudulenta, 0 para legítima).
-- `Account Age Days:` Há quantos dias a conta foi criada. 
-- `Transaction Hour:` Hora do dia em que a compra foi feita. 
+**Autoria do projeto**  
+Projeto desenvolvido por **Lethicia Asevedo**, turma ON34 - {Reprograma}.    
+- [Linkedin](https://www.linkedin.com/in/lethiciaasevedo/)  
+- [Github](https://github.com/lethiciaasevedo1999)
+
+
+
+
+*O projeto está sujeito a atualizações a qualquer momento caso haja necessidade*
 
 ________________________________________________________________________________________
