@@ -12,14 +12,17 @@ Tendo esses anos de experiência no ramo, oque me motivou foi poder mostrar minh
 **Objetivo do projeto:**  
 O projeto tem por objetivo principal realizar uma análise exploratória dos pedidos, para possível detecção de anomalias e identificar padrões de fraudes.  
 Ao decorrer da análise, também foi se desenvolvendo insights de comparações entre pedidos fraudulentos e pedidos não fraudulentos, possibilitando a visualização e clarificação de diferenças.  
-Por fim, o projeto tem por objetivo também mostrar ao público em geral, como funciona uma análise de fraude, pois ainda é uma área desconhecida por muitos, como os dados da população são armazenados e como eles são relacionados entre si, para que uma análise seja feita com relevância. 
+Por fim, o projeto tem por objetivo também mostrar ao público em geral, como funciona uma análise de fraude, pois ainda é uma área desconhecida por muitos, como os dados da população são armazenados e como eles são relacionados entre si, para que uma análise seja feita com relevância.   
+
+A análise exploratória do projeto pode ser visualizada neste link: [Análise Exploratória](https://github.com/lethiciaasevedo1999/on34-python-projetofinal/blob/main/material/analise-exploratoria/analise.ipynb)
+
 
 **Fontes e atribuições do projeto:**  
 Base de dados escolhida: [Transações Fraudulentas no E-commerce](https://www.kaggle.com/datasets/shriyashjagtap/fraudulent-e-commerce-transactions)  
 Fonte: [Kaggle](https://www.kaggle.com/)
 
 **Ferramentas utilizadas no projeto:**  
-- Python versão 3.12 [Documentação](https://devdocs.io/python~3.12/)
+- Python versão 3.12.6 [Documentação](https://devdocs.io/python~3.12/)
 - Biblioteca Matplotlib versão 3.7 [Documentação](https://devdocs.io/matplotlib~3.7/)
 - Biblioteca Pandas versão 2.2.2 [Documentação](https://devdocs.io/pandas~2/)
 - Vscode [Documentação](https://code.visualstudio.com/docs)
