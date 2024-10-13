@@ -22,7 +22,7 @@ Por fim, o projeto tem por objetivo também mostrar ao público em geral, como f
 
 🔗 A análise exploratória do projeto pode ser visualizada neste link: [Análise Exploratória - Github](https://github.com/lethiciaasevedo1999/on34-python-projetofinal/blob/main/material/analise-exploratoria/analise.ipynb)  
 🔗 A apresentação de resultados no Tableau pode ser visualizada neste link: [Transações Fraudulentas no E-Commerce - Tableau](https://public.tableau.com/views/TransaesFraudulentasnoEcommerce-ProjetoFinalReprograma-LethiciaAsevedo/Painel1?:language=pt-BR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)   
-🔗 A apresentação de slides do projeto pode ser visualizada neste link: [Apresentação de slides](link) 
+🔗 A apresentação de slides do projeto pode ser visualizada neste link: [Apresentação de slides](https://www.canva.com/design/DAGTbBIAPWU/-teAZQGs78WQoh2wya8yNw/view?utm_content=DAGTbBIAPWU&utm_campaign=designshare&utm_medium=link&utm_source=editor) 
 
 ## **Conclusão após análise:**
 
