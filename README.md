@@ -1,5 +1,9 @@
 # Análise de transações fraudulentas no E-commerce 🚨@
 
+<div align= "center">
+<img src="/material/assets/fraudador.png" alt="Fraudador">
+</div>
+
 ## **Introdução**
 
 Esse projeto foi elaborado para o trabalho de conclusão final do curso de **Análise de Dados com Python oferecido pela Instituição de ensino {Reprograma}**.  
