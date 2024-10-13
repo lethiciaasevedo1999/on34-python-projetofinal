@@ -14,8 +14,8 @@ O projeto tem por objetivo principal realizar uma análise exploratória dos ped
 Ao decorrer da análise, também foi se desenvolvendo insights de comparações entre pedidos fraudulentos e pedidos não fraudulentos, possibilitando a visualização e clarificação de diferenças.  
 Por fim, o projeto tem por objetivo também mostrar ao público em geral, como funciona uma análise de fraude, pois ainda é uma área desconhecida por muitos, como os dados da população são armazenados e como eles são relacionados entre si, para que uma análise seja feita com relevância.   
 
-🔗 A análise exploratória do projeto pode ser visualizada neste link: [Análise Exploratória](https://github.com/lethiciaasevedo1999/on34-python-projetofinal/blob/main/material/analise-exploratoria/analise.ipynb)  
-🔗 A apresentação de resultados no Tableau pode ser visualizada neste link: [Tableau](link)   
+🔗 A análise exploratória do projeto pode ser visualizada neste link: [Análise Exploratória - Github](https://github.com/lethiciaasevedo1999/on34-python-projetofinal/blob/main/material/analise-exploratoria/analise.ipynb)  
+🔗 A apresentação de resultados no Tableau pode ser visualizada neste link: [Transações Fraudulentas no E-Commerce - Tableau](https://public.tableau.com/views/TransaesFraudulentasnoEcommerce-ProjetoFinalReprograma-LethiciaAsevedo/Painel1?:language=pt-BR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)   
 🔗 A apresentação de slides do projeto pode ser visualizada neste link: [Apresentação de slides](link) 
 
 
